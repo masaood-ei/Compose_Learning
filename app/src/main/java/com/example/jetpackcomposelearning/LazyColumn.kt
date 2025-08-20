@@ -17,6 +17,7 @@ fun LazyColumn() {
     }
 
 }
+
 @Preview(showSystemUi = true)
 @Composable
 fun prevue() {
