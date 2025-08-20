@@ -30,7 +30,7 @@ fun increase() {
     Button(onClick = {
         num--
     }) {
-        Text("Decrease", fontStyle = FontStyle.Italic, fontSize = 24.sp)
+        Text("Decrease Button", fontStyle = FontStyle.Italic, fontSize = 24.sp)
     }
 
 }
